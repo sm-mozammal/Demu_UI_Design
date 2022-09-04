@@ -23,6 +23,7 @@ class _FirstPageState extends State<FirstPage> {
     "images/slider.png",
     "images/slider.png",
   ];
+
   static const TextStyle optionStyle =
   TextStyle(fontSize: 30, fontWeight: FontWeight.bold);
   static const List<Widget> _widgetOptions = <Widget>[
